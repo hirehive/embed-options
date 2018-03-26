@@ -39,7 +39,15 @@ The custom CSS will be injected in all pages in the iframe. ie. Job list, Applic
 
 Default job listings
 
-[<img src="https://raw.githubusercontent.com/hirehive/embed-options/master/embed-example.png">](http://codepen.io/)
+[<img src="https://raw.githubusercontent.com/hirehive/embed-options/master/no-grouping.png">](http://codepen.io/)
+
+Job listings grouped by category
+
+[<img src="https://raw.githubusercontent.com/hirehive/embed-options/master/category-grouping.png">](http://codepen.io/)
+
+Job listings grouped by country
+
+[<img src="https://raw.githubusercontent.com/hirehive/embed-options/master/country-grouping.png">](http://codepen.io/)
 
 ### Configuration Options
 
