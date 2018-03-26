@@ -1,6 +1,6 @@
 # HireHive Embed Options
 
-![job postings api](https://raw.githubusercontent.com/hirehive/embed-options/master/embed-example.png)
+![job postings api](https://raw.githubusercontent.com/hirehive/embed-options/master/images/embed-example.png)
 
 ## Introduction
 
@@ -32,22 +32,22 @@ The iframe has a default base styling which you may want to update to suit your 
 Each company gets a dedicated playground page which lets you add your own custom `CSS` to the iframe.
 The custom CSS will be injected in all pages in the iframe. ie. Job list, Application page and thanks page.
 
-<img src="https://raw.githubusercontent.com/hirehive/embed-options/master/playground.png">
+<img src="https://raw.githubusercontent.com/hirehive/embed-options/master/images/playground.png">
 
 ### Examples
 [](#examples)
 
 Default job listings
 
-[<img src="https://raw.githubusercontent.com/hirehive/embed-options/master/no-grouping.png">](http://codepen.io/)
+[<img src="https://raw.githubusercontent.com/hirehive/embed-options/master/images/no-grouping.png">](http://codepen.io/)
 
 Job listings grouped by category
 
-[<img src="https://raw.githubusercontent.com/hirehive/embed-options/master/category-grouping.png">](http://codepen.io/)
+[<img src="https://raw.githubusercontent.com/hirehive/embed-options/master/images/category-grouping.png">](http://codepen.io/)
 
 Job listings grouped by country
 
-[<img src="https://raw.githubusercontent.com/hirehive/embed-options/master/country-grouping.png">](http://codepen.io/)
+[<img src="https://raw.githubusercontent.com/hirehive/embed-options/master/images/country-grouping.png">](http://codepen.io/)
 
 ### Configuration Options
 
