@@ -57,6 +57,7 @@ Job listings grouped by country
 | `target` | 'self' | Options: `_self` or `_top`. If displaying multiple listings `_self` should be used.
 | `countryCode` | null |  Only display jobs from a certain Country: Two-letter country codes defined in ISO 3166-1. eg 'US', 'IE', 'CA',
 | `category` | null | Only display jobs from a certain Category: 'tech', 'sales and marketing'
+| `container`| null | CSS selector for the widget container. Use this if displaying multiple widgets in the same page. eg '.sales-jobs' , '#tech'
 
 
 ## Iframe resizing
