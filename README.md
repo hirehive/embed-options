@@ -15,6 +15,8 @@ All published job postings are also automatically viewable via
 `my.hirehive.io/yoursite`, for example
 [my.hirehive.io/AuthenticMedia](https://my.hirehive.io/AuthenticMedia)
 
+We also have an API for getting a list of your published jobs. If you wish to display the jobs on your site in a custom format then our API option might suit. [Read more information about our API](https://github.com/hirehive/jobs-api)
+
 ### This Option lets you:
 
 - Display open job postings for your company
