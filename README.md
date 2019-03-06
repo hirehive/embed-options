@@ -56,7 +56,8 @@ Job listings grouped by country
 | Field             | Default Value | Description                   |
 | ----------------- | ------------- | ----------------------------- |
 | `grouping` | 'none' | Options: `country` or `category` 
-| `target` | 'self' | Options: `_self` or `_top`. If displaying multiple listings `_self` should be used.
+| `target` | 'self' | Deprecated: The page url is now automatically updated using the window.history API
+| `historyEnabled` | true | When the iframe changes page, the parent page url with automatically update to reflect the job that is being viewed. ?hh_jid will be added so you can share the link directly to a specific job
 | `countryCode` | null |  Only display jobs from a certain Country: Two-letter country codes defined in ISO 3166-1. eg 'US', 'IE', 'CA',
 | `category` | null | Only display jobs from a certain Category: 'tech', 'sales and marketing'
 | `container`| null | CSS selector for the widget container. Use this if displaying multiple widgets in the same page. eg '.sales-jobs' , '#tech'
