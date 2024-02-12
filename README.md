@@ -12,7 +12,7 @@ If you need any features which are missing or if you find any issues, please ema
 This is an advanced feature and requires some technical changes to your site.
 It is recommended to proceed with this option if you have knowledge of the code running your site. 
 All published job postings are also automatically viewable via
-`my.hirehive.io/yoursite`, for example
+`{your sub domain}.hirehive.com`, for example
 [AuthenticMedia.hirehive.com](https://AuthenticMedia.hirehive.com)
 
 We also have an API for getting a list of your published jobs. If you wish to display the jobs on your site in a custom format then our API option might suit. [Read more information about our API](https://github.com/hirehive/jobs-api)
