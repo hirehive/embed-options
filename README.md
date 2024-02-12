@@ -1,6 +1,6 @@
 # HireHive Embed Options
 
-![job postings api](https://raw.githubusercontent.com/hirehive/embed-options/master/images/embed-example.png)
+![job postings api](https://raw.githubusercontent.com/hirehive/embed-options/master/images/iframe-job-listing-example.png)
 
 ## Introduction
 
@@ -13,7 +13,7 @@ This is an advanced feature and requires some technical changes to your site.
 It is recommended to proceed with this option if you have knowledge of the code running your site. 
 All published job postings are also automatically viewable via
 `my.hirehive.io/yoursite`, for example
-[my.hirehive.io/AuthenticMedia](https://my.hirehive.io/AuthenticMedia)
+[AuthenticMedia.hirehive.com](https://AuthenticMedia.hirehive.com)
 
 We also have an API for getting a list of your published jobs. If you wish to display the jobs on your site in a custom format then our API option might suit. [Read more information about our API](https://github.com/hirehive/jobs-api)
 
